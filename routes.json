@@ -1,0 +1,7 @@
+{
+ "/emp/list": "/emp",
+ "/emp/get/:id" : "/emp/:id",
+ "/emp/create": "/emp",
+ "/emp/update/:id" : "/emp/:id",
+ "/emp/delete/:id" : "/emp/:id"
+}
